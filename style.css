@@ -1,0 +1,32 @@
+body{
+    background:white;
+    font-family: "Special Elite",cursive;
+}
+.header_div{
+background: greenyellow;
+color: darkblue;
+
+
+}
+.header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
+.main_div button{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bolder;
+letter-spacing: 3px;
+background-color: cyan;
+color: darkorange;
+}
+.footer1{
+    position: fixed;
+    color:rgb(42, 7, 243);
+    text-align: center;
+    background-color: greenyellow;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+}
